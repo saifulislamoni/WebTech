@@ -1,0 +1,61 @@
+body{
+    background-color:white ;
+}
+form{
+    background-color: gainsboro;
+    width: 800px;
+    width:1200px;
+    margin:0px auto
+}
+big{
+    color: red;
+}
+h1{
+    color: red;
+}
+.form{
+    display: flex;
+    align-content: center;
+    margin: 10px;
+}
+.form label{
+    flex-basis: 300px;
+    text-align: right;
+    margin-right: 10px;  
+}
+.form small{
+    flex-basis: 300px;
+    text-align: right;
+    margin-right: 10px;
+}
+.form_radio{
+    display: flex;
+}
+.form_radio label{
+    flex-basis: 300px;
+    text-align: right;
+    margin-right: 10px;
+}
+.credit_card{
+    display: flex;
+    align-content: center;
+    margin: 10px;
+}
+#credit_card, #for {
+    width: 50px;
+}  
+.form button{
+    margin-left: 10px;
+}
+#volunteering_Textbox{
+    width: 750px;
+}
+.submitButton{
+    width: 200px;
+    background-color: #de440c;
+    color:white;
+
+}
+.submit{
+    margin-left: 500px;
+}
