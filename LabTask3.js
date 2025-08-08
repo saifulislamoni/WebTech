@@ -99,12 +99,9 @@ function CheckFormValidation()
         return false
     }
 
-
-
-    
-
-    
-    
-    
-
+    else
+    {
+        alert("Submission Successfull")
+        
+    }
 }
